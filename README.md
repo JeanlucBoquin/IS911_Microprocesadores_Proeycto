@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+# Sistema de control de temperatura para el ordenador
+Este proyecto fue desarrollado en el simulador Proteus version 8.11 utilizando un microcontrolador PIC16F877A, programado con el lenguaje ensamblador y tiene como objetivo regular la temperatura del ordenador por medio de un ventilador.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Componentes:
+* PIC16F877A
+* Sensor de temperatura
+* LCD 16x2
+* Reloj de tiempo real
