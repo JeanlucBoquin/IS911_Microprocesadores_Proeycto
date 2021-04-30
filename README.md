@@ -3,6 +3,7 @@ Este proyecto fue desarrollado en el simulador Proteus version 8.11 utilizando u
 
 ## Componentes:
 * PIC16F877A
+* Implementacion de PWM
+* Comunicacion USART
 * Sensor de temperatura
-* LCD 16x2
-* Reloj de tiempo real
+* LCD 16x4
