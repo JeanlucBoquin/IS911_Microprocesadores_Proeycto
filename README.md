@@ -7,3 +7,6 @@ Este proyecto fue desarrollado en el simulador Proteus version 8.11 utilizando u
 * Comunicacion USART
 * Sensor de temperatura
 * LCD 16x4
+
+## Demostración final
+![Alt Text](Demo.gif)
